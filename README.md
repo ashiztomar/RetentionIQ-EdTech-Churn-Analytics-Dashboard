@@ -12,26 +12,7 @@ A production-grade business intelligence dashboard analyzing customer retention 
 
 ## 🔗 Live Demo
 
-**Hosted at:** [EdTech Retention Intelligence Dashboard](https://your-deployment-url.vercel.app)
-
-> Replace with your Vercel/Netlify URL after deploying
-
----
-
-## 📸 Screenshots
-
-### Dashboard Overview
-![Dashboard Overview](https://via.placeholder.com/800x450?text=Dashboard+Overview+Screenshot)
-
-### Cohort Retention Heatmap
-![Cohort Heatmap](https://via.placeholder.com/800x300?text=Cohort+Retention+Heatmap)
-
-### Revenue Impact Simulator
-![Revenue Simulator](https://via.placeholder.com/800x300?text=Revenue+Simulator)
-
-> *Take screenshots from the live demo and replace these placeholders*
-
----
+**Hosted at:** [EdTech Retention Intelligence Dashboard](retention-iq.netlify.app)
 
 ## 🎯 Problem Statement
 
